@@ -13,7 +13,3 @@ elsif array.length > 2
 	array.join(", ")
 end
 end
-#def oxford_comma(array)
-#  new_array = ["kiwi, durian, starfruit, mangos, dragon fruits, lychees, and pomelos"]
-  #new_array.join (", ")
-#end
